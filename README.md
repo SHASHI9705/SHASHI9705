@@ -8,10 +8,11 @@
 - 5)Matplotlib,
 - 6)Html,
 - 7)CSS,
-- 8)Networking,
-- 9)Networksecurity
-- 10)Anonymous browsing
-- 11)Some soft skills: Communication,Groupdiscussion
+- 8)JS
+- 9)Networking,
+- 10)Networksecurity
+- 11)Anonymous browsing
+- 12)Some soft skills: Communication,Groupdiscussion
 - 🌱 I’m currently learning Cloud Computing,AWS,JS.
 - 📫 How to reach me : email:singhshashiranjan34@gmail.com
 
