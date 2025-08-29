@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Hey,+i+am+Shashi+👋)](https://git.io/typing-svg)
 
 <!-- Banner / Intro -->
-
 <p align="center">
   <a href="https://www.credly.com/badges/088a49f1-3f81-41cf-ae46-516c3a1db271/public_url">
     <img src="https://img.shields.io/badge/AWS%20SAA-Certified-orange?logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect – Associate"/>
@@ -29,19 +28,12 @@
   </tr>
 </table>
 
-
-
 <br>
 <h1 align="center">📊 GitHub Stats </h1>
  
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHASHI9705&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHASHI9705&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  
 </p>
 
 ---
