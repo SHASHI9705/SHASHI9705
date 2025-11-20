@@ -29,6 +29,23 @@
 </table>
 
 <br>
+<div align="center">
+
+## 🧩 Open Source Contributions
+
+</div>
+<br>
+<div align="center">
+
+
+| **Organization** | **Repository** | **Type** | **PR** |
+|------------------|----------------|----------|--------|
+| [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR (Merged) | [#1932](https://github.com/json-schema-org/website/pull/1923) |
+| [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR (Merged) | [#1900](https://github.com/json-schema-org/website/pull/1900) |
+
+</div>
+
+
 <h1 align="center">📊 GitHub Stats </h1>
  
 <p align="center">
