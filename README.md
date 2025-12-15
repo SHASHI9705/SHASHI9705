@@ -44,6 +44,7 @@
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR (Merged) | [#1900](https://github.com/json-schema-org/website/pull/1900) |
 | [**Apache**](https://airflow.apache.org/) | [Airflow-site](https://github.com/apache/airflow-site) | PR (Merged) | [#1318](https://github.com/apache/airflow-site/pull/1318) |
 | [**Apache**](https://airflow.apache.org/) | [Airflow-site](https://github.com/apache/airflow-site) | PR (Merged) | [#1323](https://github.com/apache/airflow-site/pull/1323) |
+| [**Apache**](https://airflow.apache.org/) | [Airflow-site](https://github.com/apache/airflow-site) | PR (Merged) | [#1327](https://github.com/apache/airflow-site/pull/1327) |
 
 
 </div>
