@@ -42,6 +42,8 @@
 |------------------|----------------|----------|--------|
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR (Merged) | [#1932](https://github.com/json-schema-org/website/pull/1923) |
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR (Merged) | [#1900](https://github.com/json-schema-org/website/pull/1900) |
+| [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR (Merged) | [#2010](https://github.com/json-schema-org/website/pull/2010) |
+| [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR (Merged) | [#2011](https://github.com/json-schema-org/website/pull/2011) |
 | [**Apache Airflow**](https://airflow.apache.org/) | [Airflow-site](https://github.com/apache/airflow-site) | PR (Merged) | [#1318](https://github.com/apache/airflow-site/pull/1318) |
 | [**Apache Airflow**](https://airflow.apache.org/) | [Airflow-site](https://github.com/apache/airflow-site) | PR (Merged) | [#1323](https://github.com/apache/airflow-site/pull/1323) |
 | [**Apache Airflow**](https://airflow.apache.org/) | [Airflow-site](https://github.com/apache/airflow-site) | PR (Merged) | [#1325](https://github.com/apache/airflow-site/pull/1325) |
