@@ -55,6 +55,9 @@
 | [**Apache Airflow**](https://airflow.apache.org/) | [Airflow-site](https://github.com/apache/airflow-site) | PR (Merged) | [#1357](https://github.com/apache/airflow-site/pull/1357) |
 | [**Apache Airflow**](https://airflow.apache.org/) | [Airflow-site](https://github.com/apache/airflow-site) | PR (Merged) | [#1361](https://github.com/apache/airflow-site/pull/1361) |
 | [**Apache Airflow**](https://airflow.apache.org/) | [Airflow-site](https://github.com/apache/airflow-site) | PR (Merged) | [#1362](https://github.com/apache/airflow-site/pull/1362) |
+| [**Apache Airflow**](https://airflow.apache.org/) | [Airflow-site](https://github.com/apache/airflow-site) | PR (Merged) | [#1377](https://github.com/apache/airflow-site/pull/1377) |
+| [**Apache Airflow**](https://airflow.apache.org/) | [Airflow-site](https://github.com/apache/airflow-site) | PR (Merged) | [#1382](https://github.com/apache/airflow-site/pull/1382) |
+| [**Apache Airflow**](https://airflow.apache.org/) | [Airflow-site](https://github.com/apache/airflow-site) | PR (Merged) | [#1383](https://github.com/apache/airflow-site/pull/1383) |
 
 
 </div>
